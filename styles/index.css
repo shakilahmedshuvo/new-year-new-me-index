@@ -5,7 +5,6 @@
 
 .text-primary {
     color: #F15B22;
-    ;
 }
 
 .btn-primary {
@@ -16,18 +15,30 @@
     font-size: 20px;
     font-weight: 700;
     border: 0;
-    padding: 18px 40px ;
+    padding: 18px 40px;
+}
+
+.btn-Contact {
+    border-radius: 5px;
+    color: white;
+    background-color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 40px;
+    left: 985px;
+    top: 580px;
+    position: absolute;
 }
 
 /* header and navigation styles */
 nav {
     display: flex;
     justify-content: space-between;
-    /* margin: 50px 180px; */
-     background: url("../images/banner/banner1.png");
-    background-size:cover ;
+    background: url("../images/banner/banner1.png");
+    background-size: cover;
     height: 100vh;
- }
+}
 
 nav li {
     list-style: none;
@@ -40,7 +51,7 @@ nav li {
 nav ul {
     display: flex;
     align-items: center;
-    margin-right:90px;
+    margin-right: 90px;
     margin-bottom: 605px;
 }
 
@@ -48,17 +59,37 @@ nav ul {
     font-size: 700;
     font-size: 60px;
     margin-left: 225px;
-    margin-top: 40px ;
+    margin-top: 40px;
 }
+
 /* banner style*/
-.banner{
+.banner {
     display: flex;
     margin: 0 1000px;
     align-items: center;
 }
-.banner-title{
 
+.banner-title {
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 695px;
+    top: 216px;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
 }
-.banner-info{
-    
+
+.banner-info {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 725px;
+    top: 460px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343
 }
