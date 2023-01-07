@@ -142,6 +142,7 @@ li {
 
 .icon-pic {
     width: 15px;
+    margin-top: 8px;
 }
 
 /* My Plans Styles */
@@ -152,6 +153,28 @@ li {
     line-height: 50px;
     width: 200px;
     height: 50px;
-    left: 600px;
+    left: 585px;
     top: 1800px;
+}
+
+.icon-main-con {
+    display: flex;
+    margin-top: 1125px;
+    margin-left: 65px;
+
+}
+
+.icon-division {
+    margin-left: 140px;
+}
+
+.plan-header {
+    font-weight: 700;
+    /* font-size: 30px; */
+    line-height: 35px;
+    text-align: center
+}
+
+.plan-des {
+    color: #737272
 }
