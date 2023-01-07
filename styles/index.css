@@ -109,7 +109,7 @@ nav ul {
     width: 288px;
     height: 94px;
     left: 790px;
-    top: 1153px;
+    top: 1180px;
     font-weight: 900;
     font-size: 40px;
     line-height: 47px;
@@ -123,16 +123,25 @@ nav ul {
     left: 790px;
     top: 1296px;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 26px;
+}
+
+li {
+    list-style: none;
+
 }
 
 .section-info-sub-division {
     position: absolute;
     width: 349px;
     height: 26px;
-    left: 795px;
-    top: 1416px;
+    left: 770px;
+    top: 1410px;
+}
+
+.icon-pic {
+    width: 15px;
 }
 
 /* My Plans Styles */
@@ -146,4 +155,3 @@ nav ul {
     left: 600px;
     top: 1800px;
 }
-
