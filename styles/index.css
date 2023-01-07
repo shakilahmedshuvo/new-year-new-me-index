@@ -26,7 +26,7 @@
     font-weight: 700;
     border: 0;
     padding: 18px 40px;
-    left: 985px;
+    left: 1030px;
     top: 580px;
     position: absolute;
 }
@@ -93,3 +93,57 @@ nav ul {
     text-align: right;
     color: #444343
 }
+
+/* section-info styles */
+.picture {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+
+}
+
+.section-title {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 790px;
+    top: 1153px;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.section-info-division {
+    color: #444343;
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 790px;
+    top: 1296px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.section-info-sub-division {
+    position: absolute;
+    width: 349px;
+    height: 26px;
+    left: 795px;
+    top: 1416px;
+}
+
+/* My Plans Styles */
+.plan-title {
+    position: absolute;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 50px;
+    width: 200px;
+    height: 50px;
+    left: 600px;
+    top: 1800px;
+}
+
