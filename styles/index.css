@@ -29,7 +29,7 @@
     padding: 18px 45px;
     position: absolute;
     left: 220px;
-    top: 2360px;
+    top: 2280px;
 }
 
 .btn-Contact {
@@ -168,7 +168,7 @@ li {
     width: 200px;
     height: 50px;
     left: 585px;
-    top: 1800px;
+    top: 1720px;
 }
 
 .icon-main-con {
@@ -210,7 +210,7 @@ li {
     width: 459px;
     height: 94px;
     left: 220px;
-    top: 2230px;
+    top: 2150px;
     color: white;
 }
 
@@ -333,4 +333,7 @@ li {
     border: none;
     border-radius: 10px;
     padding: 20px 35px;
+}
+.btn-bg{
+    background-color: #000000;
 }
